@@ -1,6 +1,6 @@
 ### 📚 3r ESO — Curso 2025 / 2026
 
-![Status](https://img.shields.io/badge/Estado-Archivado-inactive?style=for-the-badge)
+![Status](https://img.shields.io/badge/Esta-Archivado-inactive?style=for-the-badge)
 ![Scratch](https://img.shields.io/badge/Scratch-Projects-orange?style=for-the-badge)
 ![Education](https://img.shields.io/badge/Educación-STEM-blue?style=for-the-badge)
 
